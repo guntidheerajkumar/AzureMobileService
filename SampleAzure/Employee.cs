@@ -1,0 +1,35 @@
+﻿using System;
+namespace SampleAzure
+{
+	public class EmployeeInfo
+	{
+		public string Id
+		{
+			get;
+			set;
+		}
+
+		public string Name
+		{
+			get;
+			set;
+		}
+
+		public DateTime DOB
+		{
+			get;
+			set;
+		}
+
+		public int Age
+		{
+			get;
+			set;
+		}
+	}
+
+	public class Constants
+	{
+		public static string Id;
+	}
+}

@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{17DA2D64-33C1-4309-9300-8C07254B32EF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SampleAzure/AzureService.cs">
+    <Files>
+      <File FileName="SampleAzure/ViewController.cs" Line="87" Column="19" />
+      <File FileName="SampleAzure/AzureService.cs" Line="65" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.ItemProperties.SampleAzure PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.5A6635EF-A4C6-4CDD-808F-84875B84764E" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
